@@ -187,6 +187,8 @@ I'm constantly investing time in technologies that help build modern, scalable s
 
 A production-ready URL shortening service containerized with Docker, designed to simplify deployment and ensure consistent environments across development and production.
 
+GitHub -> https://github.com/devKartikeya/Dockerized-URL-Shortener.git
+
 **Highlights**
 
 - Dockerized application
@@ -202,6 +204,8 @@ A production-ready URL shortening service containerized with Docker, designed to
 > **Node.js • Docker • GitHub Actions**
 
 An automated CI/CD pipeline demonstrating modern DevOps practices, including automated testing, Docker image creation, and continuous deployment workflows.
+
+GitHub -> https://github.com/devKartikeya/Nodejs-GitHub-Actions-CI-CD-Pipeline
 
 **Highlights**
 
@@ -219,6 +223,10 @@ An automated CI/CD pipeline demonstrating modern DevOps practices, including aut
 
 A complete expense management application featuring authentication, secure APIs, expense categorization, dashboard analytics, and persistent cloud database integration.
 
+Link to Live Project -> https://expense-tracker-mern-project-seven.vercel.app
+
+GitHub -> https://github.com/devKartikeya/expense-tracker-mern-project
+
 **Highlights**
 
 - User Authentication
@@ -235,6 +243,8 @@ A complete expense management application featuring authentication, secure APIs,
 
 A complete tourism booking platform designed for a travel company, featuring destination management, package booking, user authentication, and a scalable relational database structure.
 
+GitHub -> https://github.com/devKartikeya/Heritage-Junction
+
 **Highlights**
 
 - Laravel Backend
@@ -242,35 +252,6 @@ A complete tourism booking platform designed for a travel company, featuring des
 - Booking System
 - Authentication
 - Relational Database Design
-
----
-
-# 📈 My Journey
-
-```text
-Started with Programming Fundamentals
-                │
-                ▼
-Built Static Websites
-                │
-                ▼
-Learned React
-                │
-                ▼
-Built MERN Applications
-                │
-                ▼
-Designed REST APIs
-                │
-                ▼
-Dockerized Applications
-                │
-                ▼
-Built CI/CD Pipelines
-                │
-                ▼
-Towards Scalable Software Engineering
-```
 
 ---
 
