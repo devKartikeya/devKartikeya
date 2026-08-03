@@ -60,28 +60,6 @@ For me, every project is more than an application—it's an opportunity to becom
 
 ---
 
-# 🎯 Current Focus
-
-```text
-🌐 Full-Stack Development
-
-⚙️ Backend Engineering
-
-☁️ Cloud Computing
-
-📦 Docker & Containerization
-
-🏗️ Designing Scalable Systems
-
-🔒 Authentication & Security
-
-🚀 Automated robust CI/CD Pipelines
-
-🌍 Open Source
-```
-
----
-
 # 💭 Development Philosophy
 
 > "Good software isn't defined only by features.
@@ -194,31 +172,6 @@ I'm constantly investing time in technologies that help build modern, scalable s
 
 ---
 
-# 🧠 Engineering Interests
-
-I enjoy learning and working in areas beyond traditional web development.
-
-- 🐳 DevOps
-- ☁️ Cloud Computing
-- 🔄 CI/CD Pipelines
-- 📈 System Scalability
-- 🗄️ Database Optimization
-- 🚀 Deployment Automation
-- 🏗️ Software Architecture
-- 🤖 Developer Experience (DX)
-
----
-
-# 💡 What I'm Working Towards
-
-I aspire to become an engineer capable of designing, building, deploying, and maintaining production-grade software systems.
-
-My goal isn't simply to master frameworks—it's to understand the engineering principles behind scalable applications, cloud-native systems, automation, and infrastructure.
-
-I'm particularly interested in combining **Full Stack Development**, **Backend Engineering**, and **DevOps** to deliver complete, end-to-end solutions.
-
----
-
 <div align="center">
 
 ### 🚀 "Always building. Always learning. Always improving."
@@ -292,37 +245,6 @@ A complete tourism booking platform designed for a travel company, featuring des
 
 ---
 
-## 💬 Confab - Real-Time Chat Application
-
-> **Node.js • WebSockets**
-
-A real-time messaging application built using WebSockets, enabling instant communication between connected users.
-
-**Highlights**
-
-- Real-Time Messaging
-- WebSocket Communication
-- Event-driven Architecture
-- Instant Updates
-
----
-
-## 🎮 Multiplayer Tic-Tac-Toe
-
-> **JavaScript • Socket Communication**
-
-A multiplayer browser game demonstrating real-time synchronization and client-server communication concepts.
-
----
-
-## 🎨 Developer Portfolio
-
-> **React • GSAP • TailwindCSS**
-
-A modern developer portfolio featuring premium animations, glassmorphism, responsive layouts, and smooth user interactions.
-
----
-
 # 📈 My Journey
 
 ```text
@@ -341,19 +263,10 @@ Built MERN Applications
 Designed REST APIs
                 │
                 ▼
-Worked with Databases
-                │
-                ▼
-Learned WebSockets
-                │
-                ▼
 Dockerized Applications
                 │
                 ▼
 Built CI/CD Pipelines
-                │
-                ▼
-Exploring Cloud & DevOps
                 │
                 ▼
 Towards Scalable Software Engineering
@@ -369,11 +282,9 @@ That includes:
 
 - Designing scalable architectures
 - Building robust backend systems
-- Creating intuitive user experiences
 - Automating deployment pipelines
 - Managing cloud infrastructure
 - Contributing to open source
-- Continuously learning modern engineering practices
 
 ---
 
