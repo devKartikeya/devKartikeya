@@ -47,8 +47,6 @@ I believe software engineering isn't just about writing code—it's about unders
 
 🤝 Contribute to open-source projects
 
-☁️ Explore Cloud & DevOps
-
 📚 Never stop learning
 ````
 
@@ -67,25 +65,19 @@ For me, every project is more than an application—it's an opportunity to becom
 # 🎯 Current Focus
 
 ```text
-🌐 Full Stack Development
+🌐 Full-Stack Development
 
 ⚙️ Backend Engineering
-
-🐳 DevOps
 
 ☁️ Cloud Computing
 
 📦 Docker & Containerization
 
-🚀 CI/CD Pipelines
-
-🏗️ System Design
+🏗️ Designing Scalable Systems
 
 🔒 Authentication & Security
 
-📈 Performance Optimization
-
-🤖 Automation
+🚀 Automated robust CI/CD Pipelines
 
 🌍 Open Source
 ```
@@ -102,12 +94,11 @@ For me, every project is more than an application—it's an opportunity to becom
 
 # ⚡ Quick Facts
 
+* 📚 Lifelong Learner
 * 💻 Full Stack Developer
 * ⚙️ Backend Engineering Enthusiast
 * 🐳 Passionate about DevOps & Automation
 * 📦 Interested in Cloud Infrastructure
-* 📚 Lifelong Learner
-* 🚀 Always building something new
 * ☕ Powered by curiosity and coffee
 
 ---
@@ -166,11 +157,12 @@ For me, every project is more than an application—it's an opportunity to becom
 
 # 🚀 Core Competencies
 
+
 <table>
 
 <tr>
 <td>🌐 Full Stack Web Development</td>
-<td>⚙️ REST API Development</td>
+<td>⚙️ REST APIs Development</td>
 </tr>
 
 <tr>
@@ -221,13 +213,7 @@ I'm constantly investing time in technologies that help build modern, scalable s
 
 🟡 Terraform
 
-🟡 Redis
-
-🟡 Microservices
-
 🟡 Distributed Systems
-
-🟡 Advanced System Design
 
 🟡 Cloud Infrastructure
 ```
@@ -238,17 +224,15 @@ I'm constantly investing time in technologies that help build modern, scalable s
 
 I enjoy learning and working in areas beyond traditional web development.
 
-- 🏗️ Software Architecture
-- ⚙️ Backend Engineering
 - 🐳 DevOps
 - ☁️ Cloud Computing
-- 📦 Containerization
-- 🚀 Deployment Automation
 - 🔄 CI/CD Pipelines
+- 📦 Containerization
 - 📈 System Scalability
-- 🗄️ Database Optimization
 - 🔒 Application Security
-- 🌍 Open Source
+- 🗄️ Database Optimization
+- 🚀 Deployment Automation
+- 🏗️ Software Architecture
 - 🤖 Developer Experience (DX)
 
 ---
@@ -355,7 +339,7 @@ A complete expense management application featuring authentication, secure APIs,
 
 ---
 
-## 🌍 Uttar Pradesh Tourism Platform
+## 🌍 Heritage Junction - Uttar-Pradesh Tourism Platform
 
 > **Laravel • React • MySQL**
 
@@ -371,7 +355,7 @@ A complete tourism booking platform designed for a travel company, featuring des
 
 ---
 
-## 💬 Real-Time Chat Application
+## 💬 Confab - Real-Time Chat Application
 
 > **Node.js • WebSockets**
 
