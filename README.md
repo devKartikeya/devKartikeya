@@ -45,8 +45,6 @@ I believe software engineering isn't just about writing code—it's about unders
 
 🌍 Learn industry-standard engineering practices
 
-🤝 Contribute to open-source projects
-
 📚 Never stop learning
 ````
 
@@ -118,7 +116,7 @@ For me, every project is more than an application—it's an opportunity to becom
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,c,python,php" />
+<img src="https://skillicons.dev/icons?i=ts,java,c,python,php" />
 </p>
 
 ### 🎨 Frontend Development
@@ -127,28 +125,16 @@ For me, every project is more than an application—it's an opportunity to becom
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" />
 </p>
 
 ### ☁️ DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,aws,kubernetes,terraform" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </div>
@@ -173,16 +159,6 @@ For me, every project is more than an application—it's an opportunity to becom
 <tr>
 <td>🐳 Docker & Containerization</td>
 <td>🚀 CI/CD Automation</td>
-</tr>
-
-<tr>
-<td>📡 Real-time Applications</td>
-<td>📱 Responsive UI Development</td>
-</tr>
-
-<tr>
-<td>🏗️ Clean Architecture</td>
-<td>⚡ Performance Optimization</td>
 </tr>
 
 <tr>
@@ -211,8 +187,6 @@ I'm constantly investing time in technologies that help build modern, scalable s
 
 🟡 Kubernetes
 
-🟡 Terraform
-
 🟡 Distributed Systems
 
 🟡 Cloud Infrastructure
@@ -227,48 +201,11 @@ I enjoy learning and working in areas beyond traditional web development.
 - 🐳 DevOps
 - ☁️ Cloud Computing
 - 🔄 CI/CD Pipelines
-- 📦 Containerization
 - 📈 System Scalability
-- 🔒 Application Security
 - 🗄️ Database Optimization
 - 🚀 Deployment Automation
 - 🏗️ Software Architecture
 - 🤖 Developer Experience (DX)
-
----
-
-# 💻 My Workflow
-
-```text
-Idea
-   │
-   ▼
-Planning
-   │
-   ▼
-Design
-   │
-   ▼
-Development
-   │
-   ▼
-Testing
-   │
-   ▼
-Dockerize
-   │
-   ▼
-CI/CD Pipeline
-   │
-   ▼
-Deployment
-   │
-   ▼
-Monitoring
-   │
-   ▼
-Continuous Improvement
-```
 
 ---
 
@@ -421,16 +358,6 @@ Exploring Cloud & DevOps
                 ▼
 Towards Scalable Software Engineering
 ```
-
----
-
-# 🏗️ What I Believe
-
-I enjoy building projects that challenge me to learn something new.
-
-Every application I develop is an opportunity to improve my understanding of software engineering—from writing clean code and designing databases to deploying applications and automating workflows.
-
-Rather than chasing frameworks, I focus on understanding the principles that make software reliable, scalable, and maintainable.
 
 ---
 
