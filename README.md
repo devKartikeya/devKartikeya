@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hey, I'm Kartikeya Mishra
@@ -121,9 +120,6 @@ For me, every project is more than an application—it's an opportunity to becom
 
 ---
 
-```
-```
-````markdown
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -309,8 +305,6 @@ I'm particularly interested in combining **Full Stack Development**, **Backend E
 </div>
 
 ---
-````
-````markdown
 # 🌟 Featured Projects
 
 ## 🐳 Dockerized URL Shortener
@@ -489,162 +483,3 @@ Technology evolves every day, and I enjoy evolving with it. Whether it's a new f
 </div>
 
 ---
-````
-````markdown
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devKartikeya&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKartikeya&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devKartikeya&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKartikeya&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devKartikeya&theme=flat&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🎯 2026–2027 Roadmap
-
-```text
-✅ Build Production-grade Full Stack Applications
-
-✅ Master Backend Engineering
-
-✅ Become Proficient in DevOps
-
-⬜ AWS Cloud
-
-⬜ Kubernetes
-
-⬜ Terraform
-
-⬜ Redis
-
-⬜ Microservices
-
-⬜ Distributed Systems
-
-⬜ Advanced System Design
-
-⬜ Open Source Contributions
-
-⬜ Technical Writing
-
-⬜ Build SaaS Products
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/devKartikeya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/kartikeya-mishra-8199973a9">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kartikeya2122008@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# 💭 My Philosophy
-
-> **"Technology changes every day. Curiosity should not."**
-
-I don't aim to memorize every framework or tool.
-
-Instead, I focus on understanding the engineering principles behind them—because tools evolve, but strong fundamentals remain valuable throughout a career.
-
----
-
-# ☕ Fun Fact
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    BreakThings();
-
-    FixThings();
-
-    ShareKnowledge();
-
-    Repeat();
-
-}
-```
-
----
-
-# 📖 Favorite Quote
-
-> **"The expert in anything was once a beginner."**
-
-Every project, every bug, and every challenge is another opportunity to improve.
-
----
-
-# 🚀 Beyond Coding
-
-When I'm not coding, you'll probably find me:
-
-- 📚 Learning new technologies
-- 🏗 Exploring system design concepts
-- 🐳 Experimenting with Docker & DevOps
-- 🌐 Reading about scalable architectures
-- 💡 Building side projects
-- 🤝 Contributing to the developer community
-
----
-
-<div align="center">
-
-## ⭐ Thanks for stopping by!
-
-### If you like my work, consider following my journey and exploring my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
-
-</div>
-````
