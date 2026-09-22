@@ -101,17 +101,13 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 
 ### Backend Engineering
 
-* Node.js
-* Express.js
-* Laravel
-* PHP
+* Node.js & Express.js
+* PHP & Laravel
 * REST API Design
 * MVC Architecture
 * Authentication & Authorization
-* JWT
-* Cookies & Session-based authentication
-* Password hashing with bcrypt
-* WebSockets
+* JWT & Cookies-Session-based authentication
+* WebSockets and Server-side events
 * API validation & error handling
 
 ### Databases
@@ -175,9 +171,6 @@ CI/CD Automation
 System Design
         │
         ▼
-Cloud Infrastructure
-        │
-        ▼
 Scalable Production Systems
 ```
 
@@ -187,11 +180,9 @@ Scalable Production Systems
 
 I'm especially interested in:
 
-* 🏗️ System Design
-* ⚙️ Backend Engineering
 * 🐳 DevOps
+* 🏗️ System Design
 * ☁️ Cloud Computing
-* 🔄 CI/CD
 * 📦 Containerization
 * 🌐 Distributed Systems
 * 🗄️ Database Engineering
@@ -325,22 +316,6 @@ https://github.com/devKartikeya/Heritage-Junction
 
 ---
 
-## 🎮 Multiplayer Tic-Tac-Toe
-
-> **JavaScript • Node.js • Real-Time Communication**
-
-One of my early deployed applications and an important step in exploring client-server communication and multiplayer application architecture.
-
-### Highlights
-
-* Multiplayer gameplay
-* WebSockets implementation
-* Real-time communication concepts
-* Client-server architecture
-* Deployed frontend & backend
-
----
-
 ## 🎨 Developer Portfolio
 
 > **React • TailwindCSS • GSAP**
@@ -394,10 +369,7 @@ Programming Fundamentals
        Laravel
           │
           ▼
-       Docker
-          │
-          ▼
-      CI/CD
+       Docker & CI/CD
           │
           ▼
     System Design
@@ -454,11 +426,9 @@ The goal is to **understand how the pieces fit together**.
 
 05  Keep systems maintainable.
 
-06  Learn from failures.
+06  Document what I learn.
 
-07  Document what I learn.
-
-08  Improve continuously.
+07  Improve continuously.
 ```
 
 ---
