@@ -57,6 +57,8 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
 <p>
@@ -81,11 +83,7 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,redis" />
 </p>
 
-### 🔧 Tools & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellijidea" />
-</p>
+</div>
 
 ---
 
