@@ -2,86 +2,54 @@
 
 # 👋 Hey, I'm Kartikeya Mishra
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;DevOps+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;DevOps+Enthusiast;Building+Scalable+Applications;Learning+Cloud+%26+System+Design;Always+Learning+Something+New" />
 
-### Building software that is scalable, maintainable, and production-ready.
+### Full Stack Developer • Backend Engineer • DevOps Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=devKartikeya&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=devKartikeya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/devKartikeya?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/devKartikeya?affiliations=OWNER&style=for-the-badge&logo=github" />
+</p>
 
-<a href="https://github.com/devKartikeya">
-<img src="https://img.shields.io/github/followers/devKartikeya?logo=github&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/devKartikeya">
-<img src="https://img.shields.io/github/stars/devKartikeya?affiliations=OWNER&style=for-the-badge"/>
-</a>
+<p>
+  <a href="https://github.com/devKartikeya">
+    <img src="https://img.shields.io/badge/GitHub-devKartikeya-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/kartikeya-mishra-8199973a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartikeya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🧑‍💻 About Me
 
-I'm **Kartikeya Mishra**, a software developer passionate about building applications that solve real-world problems while following modern engineering practices.
+I'm **Kartikeya Mishra**, a software developer passionate about building real-world software and understanding the engineering behind it.
 
-I enjoy developing software that goes beyond simply "working." My focus is on creating applications that are scalable, maintainable, secure, and ready for production.
+My journey started with programming fundamentals and gradually expanded into **frontend development, backend engineering, databases, authentication, real-time communication, containerization, CI/CD, and system design**.
 
-Although I began my journey with frontend development, my curiosity naturally expanded into backend engineering, databases, DevOps, deployment, automation, and system design. Today, I'm continuously working toward becoming a well-rounded Software Engineer capable of building and operating complete production systems.
+Today, I enjoy working across the entire application lifecycle — from designing interfaces and APIs to working with databases, containerizing applications, automating deployments, and thinking about how systems behave in production.
 
-I believe software engineering isn't just about writing code—it's about understanding the entire lifecycle of an application, from the first line of code to deployment, monitoring, scaling, and continuous improvement.
+I'm particularly interested in the intersection of **Full Stack Development + Backend Engineering + DevOps**.
 
----
-
-# 🚀 What Drives Me
-
-```text
-💡 Build meaningful software
-
-⚙️ Understand systems, not just syntax
-
-🚀 Automate repetitive work
-
-📈 Continuously improve every project
-
-🌍 Learn industry-standard engineering practices
-
-📚 Never stop learning
-````
+> **I don't just want to build applications. I want to understand how applications are built, deployed, operated, and scaled.**
 
 ---
 
-# 🧠 Engineering Mindset
-
-I enjoy understanding **why** technologies exist—not just **how** to use them.
-
-Whether it's Docker, CI/CD pipelines, databases, authentication, system design, or deployment strategies, I like exploring the reasoning behind engineering decisions and applying those concepts in real projects.
-
-For me, every project is more than an application—it's an opportunity to become a better engineer.
-
----
-
-# 💭 Development Philosophy
-
-> "Good software isn't defined only by features.
->
-> It's defined by clean architecture, thoughtful design, maintainability, scalability, and the willingness to keep improving."
-
----
-
-# ⚡ Quick Facts
-
-* 📚 Lifelong Learner
-* 💻 Full Stack Developer
-* ⚙️ Backend Engineering Enthusiast
-* 🐳 Passionate about DevOps & Automation
-* 📦 Interested in Cloud Infrastructure
-* ☕ Powered by curiosity and coffee
-
----
+# 🚀 What I Do
 
 <div align="center">
 
-## 🌟 "Code. Learn. Build. Improve. Repeat."
+|    🌐 Full Stack   |     ⚙️ Backend    |    🐳 DevOps   |
+| :----------------: | :---------------: | :------------: |
+| React Applications | Node.js & Express |     Docker     |
+|    Responsive UI   |     REST APIs     |      CI/CD     |
+|     TailwindCSS    |   AuthN & AuthZ  | Git & Automation |
+|   GSAP Animations  |  MongoDB & MySQL  |   Deployment   |
+|     TypeScript     |      Laravel      |      Linux     |
 
 </div>
 
@@ -89,200 +57,457 @@ For me, every project is more than an application—it's an opportunity to becom
 
 # 🛠️ Tech Stack
 
-<div align="center">
-
-### 👨‍💻 Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,java,c,python,php" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,c,python,php" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
-### ⚙️ Backend Development & Databases
+### ⚙️ Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" />
 </p>
 
-### ☁️ DevOps & Cloud
+### 🐳 DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,aws,kubernetes,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,redis" />
 </p>
 
-</div>
+### 🔧 Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,intellijidea" />
+</p>
 
 ---
 
-# 🚀 Core Competencies
+# 🧠 Technical Skills
 
+### Frontend Engineering
 
-<table>
+* React.js
+* HTML5 & CSS3
+* JavaScript / ES6+
+* TypeScript
+* TailwindCSS
+* Responsive Design
+* GSAP & ScrollTrigger
 
-<tr>
-<td>🌐 Full Stack Web Development</td>
-<td>⚙️ REST APIs Development</td>
-</tr>
+### Backend Engineering
 
-<tr>
-<td>🔐 Authentication & Authorization</td>
-<td>🗄️ Database Design</td>
-</tr>
+* Node.js
+* Express.js
+* Laravel
+* PHP
+* REST API Design
+* MVC Architecture
+* Authentication & Authorization
+* JWT
+* Cookies & Session-based authentication
+* Password hashing with bcrypt
+* WebSockets
+* API validation & error handling
 
-<tr>
-<td>🐳 Docker & Containerization</td>
-<td>🚀 CI/CD Automation</td>
-</tr>
+### Databases
 
-<tr>
-<td>🔄 Version Control (Git)</td>
-<td>📦 Deployment Workflows</td>
-</tr>
+* MySQL
+* MongoDB
+* Schema design
+* Normalization
+* Relationships
+* CRUD operations
+* Database integrity
+* Connection pooling concepts
+* Query optimization fundamentals
 
-</table>
+### DevOps
+
+* Docker
+* Networking
+* Docker Compose
+* GitHub Actions
+* CI/CD Pipelines
+* Environment configuration
+* Linux fundamentals
+* Deployment workflows
+
+### Engineering Concepts
+
+* System Design
+* OOPS & SOLID Principles
+* Client–Server Architecture
+* REST Architecture
+* Caching & Redis
+* Rate limiting & security
+* Load balancing 
+* Scalability
+* Containerization
+* Git workflows
 
 ---
 
-# 📚 Currently Learning
+# 🔥 Current Engineering Focus
 
-I'm constantly investing time in technologies that help build modern, scalable software systems.
+I'm currently moving deeper into **software engineering and DevOps**, focusing on understanding systems rather than simply collecting technologies.
 
 ```text
-✅ Docker
-
-✅ GitHub Actions
-
-✅ DevOps Practices
-
-✅ Linux
-
-🟡 AWS
-
-🟡 Kubernetes
-
-🟡 Distributed Systems
-
-🟡 Cloud Infrastructure
+Full Stack Development
+        │
+        ▼
+Backend Engineering
+        │
+        ▼
+Databases & APIs
+        │
+        ▼
+Docker & Containerization
+        │
+        ▼
+CI/CD Automation
+        │
+        ▼
+System Design
+        │
+        ▼
+Cloud Infrastructure
+        │
+        ▼
+Scalable Production Systems
 ```
 
 ---
 
-<div align="center">
+# 🧩 Engineering Interests
 
-### 🚀 "Always building. Always learning. Always improving."
+I'm especially interested in:
 
-</div>
+* 🏗️ System Design
+* ⚙️ Backend Engineering
+* 🐳 DevOps
+* ☁️ Cloud Computing
+* 🔄 CI/CD
+* 📦 Containerization
+* 🌐 Distributed Systems
+* 🗄️ Database Engineering
+* 🔐 Application Security
+* ⚡ Performance Engineering
+* 🤖 Automation
+* 🌍 Open Source
 
 ---
+
+# 💡 Engineering Mindset
+
+I like understanding **why** a technology or architectural decision exists instead of only learning how to use it.
+
+For example:
+
+* Why use SQL instead of NoSQL?
+* Why containerize an application?
+* How does Docker networking actually work?
+* How does a reverse proxy fit into an architecture?
+* Why does connection pooling matter?
+* How should authentication work securely?
+* How can an application scale beyond a single server?
+* What happens between `git push` and production?
+
+These questions are what continue to drive my learning.
+
+---
+
 # 🌟 Featured Projects
 
-## 🐳 Dockerized URL Shortener
+## 🔗 Shortify — Robust URL Shortener
 
-> **Node.js • Express • MongoDB • Docker**
+> **React • Node.js • Express • MongoDB • Redis • Docker • CI/CD • Load-Balancing • Rate-Limiting**
 
-A production-ready URL shortening service containerized with Docker, designed to simplify deployment and ensure consistent environments across development and production.
+A full-stack URL shortening platform built while exploring **backend engineering, containerization, DevOps workflows and best system design principles**.
 
-GitHub -> https://github.com/devKartikeya/Dockerized-URL-Shortener.git
+Shortify allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users.
 
-**Highlights**
+### Highlights
 
-- Dockerized application
-- RESTful API
-- MongoDB integration
-- Production-ready setup
-- Environment variable configuration
+* 🔗 URL shortening
+* 📈 Click tracking
+* 👤 User authentication
+* 🍪 JWT-based authentication
+* 📊 User-specific link dashboard
+* 🗄️ MongoDB + Mongoose
+* ⚙️ REST APIs
+* 🐳 Dockerized backend environment
+* 🔄 CI/CD development direction
+* 📈 Caching service for optimizing read operations
+* 📈 Rate-limiter applied for security
+* 📈 Horizontally scaled along with a load balancer
+* 🎨 React + TailwindCSS interface
 
----
-
-## ⚙️ CI/CD Pipeline with GitHub Actions
-
-> **Node.js • Docker • GitHub Actions**
-
-An automated CI/CD pipeline demonstrating modern DevOps practices, including automated testing, Docker image creation, and continuous deployment workflows.
-
-GitHub -> https://github.com/devKartikeya/Nodejs-GitHub-Actions-CI-CD-Pipeline
-
-**Highlights**
-
-- GitHub Actions
-- Docker automation
-- Continuous Integration
-- Continuous Deployment
-- Production workflow
+**Repository:**
+https://github.com/devKartikeya/Shortify
 
 ---
 
 ## 💰 Xpense Tracker
 
-> **MERN Stack**
+> **MERN • React • Node.js • Express • MongoDB**
 
-A complete expense management application featuring authentication, secure APIs, expense categorization, dashboard analytics, and persistent cloud database integration.
+A full-stack financial management application designed to track income and expenses while providing analytics and administrative functionality.
 
-Link to Live Project -> https://expense-tracker-mern-project-seven.vercel.app
+### Highlights
 
-GitHub -> https://github.com/devKartikeya/expense-tracker-mern-project
+* 🔐 JWT authentication
+* 🔒 Protected routes
+* 🔑 Password hashing with bcrypt
+* 📊 Expense & income analytics
+* 📈 Pie, bar & line charts
+* 🧾 Ledger
+* 🗂️ Dynamic categories
+* 👨‍💼 Admin panel
+* 📧 Password reset
+* 📄 PDF & Excel export
+* 📱 Responsive UI
+* ☁️ Cloud deployment
 
-**Highlights**
+**Live:**
+https://expense-tracker-mern-project-seven.vercel.app
 
-- User Authentication
-- REST APIs
-- MongoDB Database
-- Dashboard
-- Responsive UI
+**Repository:**
+https://github.com/devKartikeya/expense-tracker-mern-project
 
 ---
 
-## 🌍 Heritage Junction - Uttar-Pradesh Tourism Platform
+## ⚙️ Node.js GitHub Actions CI/CD Pipeline
 
-> **Laravel • React • MySQL**
+> **Node.js • Docker • GitHub Actions**
 
-A complete tourism booking platform designed for a travel company, featuring destination management, package booking, user authentication, and a scalable relational database structure.
+A practical DevOps project focused on understanding how source code moves through an automated CI/CD workflow.
 
-GitHub -> https://github.com/devKartikeya/Heritage-Junction
+### Highlights
 
-**Highlights**
+* 🔄 GitHub Actions
+* 🧪 Automated workflow execution
+* 🐳 Docker integration
+* 📦 Build automation
+* 🚀 Deployment workflow
+* 🔐 Environment & secrets management
+* 🌱 Git-based development workflow
 
-- Laravel Backend
-- React Frontend
-- Booking System
-- Authentication
-- Relational Database Design
+**Repository:**
+https://github.com/devKartikeya/Nodejs-GitHub-Actions-CI-CD-Pipeline
+
+---
+
+## 🌍 Heritage Junction
+
+> **Laravel • React • Inertia • MySQL**
+
+A tourism and travel platform focused on destinations, packages, itineraries, and booking workflows.
+
+### Highlights
+
+* Laravel backend
+* React frontend
+* Inertia
+* MySQL
+* Destination management
+* Travel packages
+* Itinerary management
+* Booking workflow
+* Database-driven architecture
+
+**Repository:**
+https://github.com/devKartikeya/Heritage-Junction
+
+---
+
+## 🎮 Multiplayer Tic-Tac-Toe
+
+> **JavaScript • Node.js • Real-Time Communication**
+
+One of my early deployed applications and an important step in exploring client-server communication and multiplayer application architecture.
+
+### Highlights
+
+* Multiplayer gameplay
+* WebSockets implementation
+* Real-time communication concepts
+* Client-server architecture
+* Deployed frontend & backend
+
+---
+
+## 🎨 Developer Portfolio
+
+> **React • TailwindCSS • GSAP**
+
+A modern animated portfolio designed to showcase my work, skills, projects, and development journey.
+
+### Highlights
+
+* ✨ GSAP animations
+* 🎨 Modern UI/UX
+* 🪟 Glassmorphism
+* 📱 Responsive design
+* 🧩 Component-based architecture
+* 📬 EmailJS integration
+
+---
+
+# 📈 My Development Journey
+
+```text
+Programming Fundamentals
+          │
+          ▼
+        Java
+          │
+          ▼
+     HTML / CSS
+          │
+          ▼
+     JavaScript
+          │
+          ▼
+       React
+          │
+          ▼
+ Node.js + Express
+          │
+          ▼
+ MongoDB + MySQL
+          │
+          ▼
+ Authentication & APIs
+          │
+          ▼
+ WebSockets & Real-Time Apps
+          │
+          ▼
+      MERN Projects
+          │
+          ▼
+       Laravel
+          │
+          ▼
+       Docker
+          │
+          ▼
+      CI/CD
+          │
+          ▼
+    System Design
+          │
+          ▼
+   DevOps & Cloud
+```
 
 ---
 
 # 🎯 Long-Term Vision
 
-My goal is to become a Software Engineer capable of designing and operating production-grade systems from end to end.
+My long-term goal is to become a **well-rounded Software Engineer with strong Full Stack, Backend, and DevOps capabilities**.
 
-That includes:
+I want to be able to:
 
-- Designing scalable architectures
-- Building robust backend systems
-- Automating deployment pipelines
-- Managing cloud infrastructure
-- Contributing to open source
+* Design scalable architectures
+* Build reliable backend systems
+* Develop polished user experiences
+* Design efficient databases
+* Containerize applications
+* Automate CI/CD workflows
+* Deploy applications to cloud infrastructure
+* Understand distributed systems
+* Monitor and improve production systems
+* Contribute to open-source projects
+
+The goal isn't to simply know more technologies.
+
+The goal is to **understand how the pieces fit together**.
 
 ---
 
-# 🌱 Learning Never Stops
+# 🔥 GitHub Streak
 
-> "The day I stop learning is the day I stop growing as an engineer."
+<div align="center">
 
-Technology evolves every day, and I enjoy evolving with it. Whether it's a new framework, a DevOps tool, or a system design concept, I believe consistent learning is one of the most valuable skills a developer can have.
+<img src="https://streak-stats.demolab.com?user=devKartikeya&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 Principles I Try to Follow
+
+```text
+01  Understand before implementing.
+
+02  Build before assuming.
+
+03  Prefer fundamentals over hype.
+
+04  Automate repetitive work.
+
+05  Keep systems maintainable.
+
+06  Learn from failures.
+
+07  Document what I learn.
+
+08  Improve continuously.
+```
+
+---
+
+# ☕ Outside the Code
+
+When I'm not building something, I'm usually:
+
+* 📚 Learning a new concept
+* 🏗️ Thinking about system architecture
+* 🐳 Experimenting with DevOps
+* 💡 Working on side projects
+* 🌐 Exploring new technologies
+* ✍️ Sharing parts of my development journey
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/devKartikeya">
+<img src="https://img.shields.io/badge/GitHub-devKartikeya-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/kartikeya-mishra-8199973a9">
+<img src="https://img.shields.io/badge/LinkedIn-Kartikeya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:kartikeya2122008@gmail.com">
+<img src="https://img.shields.io/badge/Email-kartikeya2122008%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💻 Every project teaches something new.
+### 💻 Build → Break → Learn → Improve → Repeat
 
-### 🚀 Every challenge makes me a better engineer.
+<br>
+
+### 🚀 Always building. Always learning. Always improving.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:06B6D4&section=footer" />
 
 </div>
-
----
