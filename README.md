@@ -148,34 +148,6 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 
 ---
 
-# 🔥 Current Engineering Focus
-
-I'm currently moving deeper into **software engineering and DevOps**, focusing on understanding systems rather than simply collecting technologies.
-
-```text
-Full Stack Development
-        │
-        ▼
-Backend Engineering
-        │
-        ▼
-Databases & APIs
-        │
-        ▼
-Docker & Containerization
-        │
-        ▼
-CI/CD Automation
-        │
-        ▼
-System Design
-        │
-        ▼
-Scalable Production Systems
-```
-
----
-
 # 🧩 Engineering Interests
 
 I'm especially interested in:
