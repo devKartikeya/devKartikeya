@@ -68,19 +68,19 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,postgresql" />
 </p>
 
 ### 🐳 DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,redis" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,git,github,redis" />
 </p>
 
 </div>
