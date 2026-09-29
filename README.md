@@ -46,9 +46,9 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 |    🌐 Full Stack   |     ⚙️ Backend    |    🐳 DevOps   |
 | :----------------: | :---------------: | :------------: |
 | React Applications | Node.js & Express |     Docker     |
-|    Responsive UI   |     REST APIs     |      CI/CD     |
+|    Responsive UI & UX  |     REST APIs     |      CI/CD     |
 |     TailwindCSS    |   AuthN & AuthZ  | Git & Automation |
-|   GSAP Animations  |  MongoDB & MySQL  |   Deployment   |
+|   GSAP Animations  |  SQL & NoSQL  |   Deployment   |
 |     TypeScript     |      Laravel      |      Linux     |
 
 </div>
@@ -292,7 +292,7 @@ https://github.com/devKartikeya/Heritage-Junction
 
 > **React • TailwindCSS • GSAP**
 
-A modern animated portfolio designed to showcase my work, skills, projects, and development journey.
+A modern animated portfolio designed to showcase my work, skills, projects, certifications and development journey.
 
 ### Highlights
 
@@ -402,19 +402,6 @@ The goal is to **understand how the pieces fit together**.
 
 07  Improve continuously.
 ```
-
----
-
-# ☕ Outside the Code
-
-When I'm not building something, I'm usually:
-
-* 📚 Learning a new concept
-* 🏗️ Thinking about system architecture
-* 🐳 Experimenting with DevOps
-* 💡 Working on side projects
-* 🌐 Exploring new technologies
-* ✍️ Sharing parts of my development journey
 
 ---
 
