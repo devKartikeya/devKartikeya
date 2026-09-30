@@ -303,6 +303,12 @@ A modern animated portfolio designed to showcase my work, skills, projects, cert
 * 🧩 Component-based architecture
 * 📬 EmailJS integration
 
+**Live:**
+https://kartikeyamishra.vercel.app
+
+**Repository:**
+https://github.com/devKartikeya/Kartikeya-Mishra.git
+
 ---
 
 # 📈 My Development Journey
