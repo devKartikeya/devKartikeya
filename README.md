@@ -148,6 +148,8 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 * Caching & Redis
 * Rate limiting & security
 * Load balancing 
+* Message Brokers
+* Backpressure
 * Scalability
 * Containerization
 * Git workflows
@@ -194,15 +196,17 @@ These questions are what continue to drive my learning.
 
 ## 🔗 Shortify — Robust URL Shortener
 
-> **React • Node.js • Express • MongoDB • Redis • Docker • CI/CD • Load-Balancing • Rate-Limiting**
+> **React • Node.js • Express • MongoDB • Redis • Docker • CI/CD • Load-Balancing • Rate-Limiting • RabbitMQ**
 
 A full-stack URL shortening platform built while exploring **backend engineering, containerization, DevOps workflows and best system design principles**.
 
-Shortify allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users.
+Shortify allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users and generate customizable QR-Codes.
 
 ### Highlights
 
 * 🔗 URL shortening
+* 🔗 QR-Code Generation
+* 🔗 Brand Identity into QRs
 * 📈 Click tracking
 * 👤 User authentication
 * 🍪 JWT-based authentication
@@ -213,6 +217,8 @@ Shortify allows users to create and manage shortened URLs while providing a dash
 * 🔄 CI/CD development direction
 * 📈 Caching service for optimizing read operations
 * 📈 Rate-limiter applied for security
+* 📈 RabbitMQ for heavy asynchronous jobs like sending mails.
+* 📈 Backpressure for stability
 * 📈 Horizontally scaled along with a load balancer
 * 🎨 React + TailwindCSS interface
 
