@@ -194,13 +194,13 @@ These questions are what continue to drive my learning.
 
 # 🌟 Featured Projects
 
-## 🔗 Shortify — Robust URL Shortener
+## 🔗 WhyLong — Robust URL Shortener
 
 > **React • Node.js • Express • MongoDB • Redis • Docker • CI/CD • Load-Balancing • Rate-Limiting • RabbitMQ**
 
 A full-stack URL shortening platform built while exploring **backend engineering, containerization, DevOps workflows and best system design principles**.
 
-Shortify allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users and generate customizable QR-Codes.
+WhyLong allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users and generate customizable QR-Codes.
 
 ### Highlights
 
@@ -223,7 +223,7 @@ Shortify allows users to create and manage shortened URLs while providing a dash
 * 🎨 React + TailwindCSS interface
 
 **Repository:**
-https://github.com/devKartikeya/Shortify
+https://github.com/devKartikeya/WhyLong
 
 ---
 
