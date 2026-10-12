@@ -43,13 +43,13 @@ I'm particularly interested in the intersection of **Full Stack Development + Ba
 
 <div align="center">
 
-|    🌐 Full Stack   |     ⚙️ Backend    |    🐳 DevOps   |
-| :----------------: | :---------------: | :------------: |
-| React Applications | Node.js & Express |     Docker     |
-|    Responsive UI & UX  |     REST APIs     |      CI/CD     |
-|     TailwindCSS    |   AuthN & AuthZ  | Git & Automation |
-|   GSAP Animations  |  SQL & NoSQL  |   Deployment   |
-|     TypeScript     |      Laravel      |      Linux     |
+|    🌐 Full Stack   |     ⚙️ Backend    |    🐳 DevOps   | 🖥️ System Design |
+| :----------------: | :---------------: | :------------: | :--------------: | 
+| React Applications | Node.js & Express |     Docker     | Redis & Caching | 
+|    Responsive UI & UX  |     REST APIs     |      CI/CD     | Message Brokers | 
+|     TailwindCSS    |   AuthN & AuthZ  | Git & Automation | Load Balancing | 
+|   GSAP Animations  |  SQL & NoSQL  |   Deployment   | Horizontal Scaling | 
+|     TypeScript     |      Laravel      |      Linux     | Microservices | 
 
 </div>
 
