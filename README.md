@@ -222,6 +222,9 @@ WhyLong allows users to create and manage shortened URLs while providing a dashb
 * 📈 Horizontally scaled along with a load balancer
 * 🎨 React + TailwindCSS interface
 
+**Live:**
+https://whylong.vercel.app
+
 **Repository:**
 https://github.com/devKartikeya/WhyLong
 
