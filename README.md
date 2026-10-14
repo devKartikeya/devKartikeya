@@ -81,6 +81,8 @@ I learn by building, experimenting, debugging, and improving real projects.
   </tr>
 </table>---
 
+<div align="center">
+
 🛠️ Technology Stack
 
 💻 Languages
@@ -105,6 +107,7 @@ I learn by building, experimenting, debugging, and improving real projects.
   <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,cloudflare" alt="Technologies related to caching, messaging and infrastructure" />
 </p>Technology logos represent my technical interests and learning areas, not necessarily production-level expertise in every tool.
 
+</div>
 ---
 
 🧠 Technical Skills
@@ -176,16 +179,25 @@ A URL shortening platform with QR generation, link management, analytics, and ba
 
 ⚙️ Engineering Capabilities
 
-Area| Focus
-API layer| Node.js, Express, REST APIs
-Data layer| MongoDB and Mongoose
-Authentication| JWT and cookie-based flows
-Performance| Caching and reduced repeated reads
-Security| Rate limiting and request protection
-Async processing| RabbitMQ-based background jobs
-Reliability| Backpressure and resource management
-Infrastructure| Docker and CI/CD workflows
-Scalability| Load balancing and horizontal scaling
+Area | Focus
+
+API layer | Node.js, Express, REST APIs
+
+Data layer | MongoDB and Mongoose
+
+Authentication | JWT and cookie-based flows
+
+Performance | Caching and reduced repeated reads
+
+Security | Rate limiting and request protection
+
+Async processing | RabbitMQ-based background jobs
+
+Reliability | Backpressure and resource management
+
+Infrastructure | Docker and CI/CD workflows
+
+Scalability | Load balancing and horizontal scaling
 
 🏗️ What I'm Exploring Through WhyLong
 
@@ -265,15 +277,23 @@ Stack: React · TailwindCSS · GSAP · Vite
 
 I prefer understanding the problem before choosing the technology.
 
-Engineering question| What I want to understand
-SQL or NoSQL?| Data relationships, consistency, query patterns, and trade-offs
-Why Docker?| Reproducible environments and deployment consistency
-Why Redis?| When caching helps and how invalidation affects correctness
-Why a message queue?| Decoupling workloads and handling asynchronous processing
-Why rate limiting?| Protecting resources and controlling abusive traffic
-Why a load balancer?| Distributing requests across application instances
-Why CI/CD?| Reducing manual work and making delivery repeatable
-Why monitoring?| Detecting failures and understanding system behavior
+Engineering question | What I want to understand
+
+SQL or NoSQL? | Data relationships, consistency, query patterns, and trade-offs
+
+Why Docker? | Reproducible environments and deployment consistency
+
+Why Redis? | When caching helps and how invalidation affects correctness
+
+Why a message queue? | Decoupling workloads and handling asynchronous processing
+
+Why rate limiting? | Protecting resources and controlling abusive traffic
+
+Why a load balancer? | Distributing requests across application instances
+
+Why CI/CD? | Reducing manual work and making delivery repeatable
+
+Why monitoring? | Detecting failures and understanding system behavior
 
 The interesting part isn't just learning a tool — it's knowing when to use it, what it costs, and which problem it solves.
 
@@ -283,15 +303,23 @@ The interesting part isn't just learning a tool — it's knowing when to use it,
 
 <div align="center">"Programming Fundamentals" → "Full Stack Development" → "Backend Engineering" → "Docker & CI/CD" → "System Design" → "Cloud & Infrastructure"
 
-</div>Stage| Focus
-01 · Foundations| Java, C, programming fundamentals, Git
-02 · Web Development| HTML, CSS, JavaScript, React
-03 · Backend Development| Node.js, Express, PHP, Laravel
-04 · Data & APIs| MongoDB, MySQL, authentication, REST APIs
-05 · Real Applications| Full-stack projects and real-time communication
-06 · DevOps Foundations| Docker, Linux, GitHub Actions, CI/CD
-07 · Engineering Depth| System design, performance, reliability, and scalability
-08 · Next Frontier| Cloud infrastructure, advanced distributed systems, and observability
+</div>Stage | Focus
+
+01 · Foundations | Java, C, programming fundamentals, Git
+
+02 · Web Development | HTML, CSS, JavaScript, React
+
+03 · Backend Development | Node.js, Express, PHP, Laravel
+
+04 · Data & APIs | MongoDB, MySQL, authentication, REST APIs
+
+05 · Real Applications | Full-stack projects and real-time communication
+
+06 · DevOps Foundations | Docker, Linux, GitHub Actions, CI/CD
+
+07 · Engineering Depth | System design, performance, reliability, and scalability
+
+08 · Next Frontier | Cloud infrastructure, advanced distributed systems, and observability
 
 ---
 
@@ -303,8 +331,8 @@ I'm focused on strengthening what I've already built while expanding into infras
 - [x] Work with SQL and NoSQL databases.
 - [x] Implement authentication and protected APIs.
 - [x] Build Docker and GitHub Actions practice projects.
-- [ ] Deepen Docker Compose and production container workflows.
-- [ ] Develop stronger system design and scalability skills.
+- [x] Deepen Docker Compose and production container workflows.
+- [x] Develop stronger system design and scalability skills.
 - [ ] Learn cloud infrastructure with AWS.
 - [ ] Explore Kubernetes and Terraform.
 - [ ] Deepen Redis, messaging, and distributed systems knowledge.
@@ -321,14 +349,21 @@ The roadmap reflects ongoing goals; unchecked items are areas I intend to develo
 
 🧭 Principles I Try to Follow
 
-<div align="center">Principle| Practice
-Understand first| Learn the problem before adopting a solution
-Build to learn| Turn concepts into working projects
-Fundamentals over hype| Understand the trade-offs behind tools
-Automate wisely| Reduce repetitive, error-prone work
-Design for change| Keep code readable and maintainable
-Learn from failure| Debug the cause, not just the symptom
-Improve continuously| Refine both implementation and thinking
+<div align="center">Principle | Practice
+  
+Understand first | Learn the problem before adopting a solution
+
+Build to learn | Turn concepts into working projects
+
+Fundamentals over hype | Understand the trade-offs behind tools
+
+Automate wisely | Reduce repetitive, error-prone work
+
+Design for change | Keep code readable and maintainable
+
+Learn from failure | Debug the cause, not just the symptom
+
+Improve continuously | Refine both implementation and thinking
 
 </div>---
 
