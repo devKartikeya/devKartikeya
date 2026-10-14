@@ -1,461 +1,349 @@
-<div align="center">
+<div align="center">👋 Hey, I'm Kartikeya Mishra
 
-# 👋 Hey, I'm Kartikeya Mishra
+I Build Applications. I Explore Systems. I Engineer for Scale.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;DevOps+Enthusiast;Building+Scalable+Applications;Learning+Cloud+%26+System+Design;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;DevOps+%26+Automation;System+Design+%26+Scalability;Turning+Ideas+Into+Working+Software" alt="Animated developer roles" /><p>
+  <img src="https://komarev.com/ghpvc/?username=devKartikeya&label=PROFILE+VIEWS&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/devKartikeya?label=FOLLOWERS&style=flat-square&color=2563eb" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/devKartikeya?affiliations=OWNER&label=STARS&style=flat-square&color=f59e0b" alt="GitHub stars" />
+</p><p>
+  <a href="https://github.com/devKartikeya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/kartikeya-mishra-8199973a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kartikeya2122008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>Full Stack Development · Backend Engineering · DevOps · System Design
 
-### Full Stack Developer • Backend Engineer • DevOps Enthusiast
+</div>---
+
+🧑‍💻 About Me
+
+I'm Kartikeya Mishra, a developer who enjoys going beyond making an application work — understanding how its components communicate, how data flows, how failures happen, and how systems can become more reliable.
+
+My journey began with programming fundamentals and grew into frontend development, backend APIs, database design, authentication, and full-stack applications. More recently, I've been exploring containerization, CI/CD automation, infrastructure, and the engineering decisions behind scalable systems.
+
+I learn by building, experimenting, debugging, and improving real projects.
+
+- 💻 Building full-stack applications with practical use cases.
+- ⚙️ Exploring backend architecture, API design, and database engineering.
+- 🐳 Practicing containerization and CI/CD workflows.
+- 🏗️ Learning system design through real implementation trade-offs.
+- 📈 Improving my understanding of security, performance, reliability, and scalability.
+
+«My goal: Move beyond writing code to understanding the systems that make software reliable, maintainable, and scalable.»
+
+---
+
+⚡ My Engineering Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Full Stack Development</h3>
+      Building complete applications from user interfaces to APIs and persistent data.
+      <ul>
+        <li>React and modern frontend development</li>
+        <li>Responsive UI and component architecture</li>
+        <li>REST APIs and application integration</li>
+        <li>Authentication and authorization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend Engineering</h3>
+      Understanding the logic, data flows, and reliability behind applications.
+      <ul>
+        <li>Node.js, Express, and Laravel</li>
+        <li>SQL and NoSQL databases</li>
+        <li>API security and validation</li>
+        <li>Caching, queues, and performance</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐳 DevOps & Automation</h3>
+      Making development workflows repeatable and deployments more consistent.
+      <ul>
+        <li>Docker and container workflows</li>
+        <li>GitHub Actions and CI/CD</li>
+        <li>Linux and environment configuration</li>
+        <li>Deployment and infrastructure fundamentals</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏗️ System Design</h3>
+      Learning how architectural decisions affect performance and reliability.
+      <ul>
+        <li>Caching and rate limiting</li>
+        <li>Load balancing and scaling</li>
+        <li>Asynchronous job processing</li>
+        <li>Resilience and failure handling</li>
+      </ul>
+    </td>
+  </tr>
+</table>---
+
+🛠️ Technology Stack
+
+💻 Languages
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=devKartikeya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/devKartikeya?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/devKartikeya?affiliations=OWNER&style=for-the-badge&logo=github" />
-</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,python,php" alt="JavaScript, TypeScript, Java, C, Python and PHP" />
+</p>🎨 Frontend
 
 <p>
-  <a href="https://github.com/devKartikeya">
-    <img src="https://img.shields.io/badge/GitHub-devKartikeya-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/kartikeya-mishra-8199973a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Kartikeya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm **Kartikeya Mishra**, a software developer passionate about building real-world software and understanding the engineering behind it.
-
-My journey started with programming fundamentals and gradually expanded into **frontend development, backend engineering, databases, authentication, real-time communication, containerization, CI/CD, and system design**.
-
-Today, I enjoy working across the entire application lifecycle — from designing interfaces and APIs to working with databases, containerizing applications, automating deployments, and thinking about how systems behave in production.
-
-I'm particularly interested in the intersection of **Full Stack Development + Backend Engineering + DevOps**.
-
-> **I don't just want to build applications. I want to understand how applications are built, deployed, operated, and scaled.**
-
----
-
-# 🚀 What I Do
-
-<div align="center">
-
-|    🌐 Full Stack   |     ⚙️ Backend    |    🐳 DevOps   | 🖥️ System Design |
-| :----------------: | :---------------: | :------------: | :--------------: | 
-| React Applications | Node.js & Express |     Docker     | Redis & Caching | 
-|    Responsive UI & UX  |     REST APIs     |      CI/CD     | Message Brokers | 
-|     TailwindCSS    |   AuthN & AuthZ  | Git & Automation | Load Balancing | 
-|   GSAP Animations  |  SQL & NoSQL  |   Deployment   | Horizontal Scaling | 
-|     TypeScript     |      Laravel      |      Linux     | Microservices | 
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs" alt="Frontend technologies" />
+</p>⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,java,c,python,php" />
-</p>
-
-### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" alt="Backend and database technologies" />
+</p>🐳 DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
-</p>
-
-### ⚙️ Backend & Databases
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,nginx" alt="DevOps tools" />
+</p>🧠 Exploring Infrastructure & Distributed Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" />
-</p>
+  <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,cloudflare" alt="Technologies related to caching, messaging and infrastructure" />
+</p>Technology logos represent my technical interests and learning areas, not necessarily production-level expertise in every tool.
 
-### 🐳 DevOps & Infrastructure
+---
+
+🧠 Technical Skills
+
+<details open>
+  <summary><strong>Frontend Engineering</strong></summary>- React.js, JavaScript (ES6+), TypeScript
+- HTML5, CSS3, TailwindCSS
+- Responsive design and component-based architecture
+- React Router, React Hook Form, and Zod
+- GSAP and ScrollTrigger animations
+- Vite and frontend-backend integration
+
+</details><details open>
+  <summary><strong>Backend Engineering</strong></summary>- Node.js, Express.js, PHP, and Laravel
+- REST API design and MVC architecture
+- Authentication and authorization (AuthN & AuthZ)
+- JWT, cookie-based authentication, and password hashing
+- Middleware, validation, and error handling
+- WebSockets and real-time communication fundamentals
+- Asynchronous processing and API security
+
+</details><details>
+  <summary><strong>Database Engineering</strong></summary>- MongoDB, Mongoose, and MySQL
+- Schema design, CRUD operations, and data relationships
+- Relational database normalization and integrity
+- SQL vs. NoSQL trade-offs
+- Connection pooling and query optimization fundamentals
+- Data access patterns and caching concepts
+
+</details><details>
+  <summary><strong>DevOps & Infrastructure</strong></summary>- Docker images, containers, and Dockerfiles
+- Container networking, volumes, and bind mounts
+- Docker Compose fundamentals
+- GitHub Actions and CI/CD workflows
+- Linux fundamentals and environment configuration
+- Git workflows, secrets management, and deployment practices
+
+</details><details>
+  <summary><strong>System Design & Reliability</strong></summary>- Client-server architecture and API design
+- OOP and SOLID principles
+- Caching and rate limiting
+- Reverse proxies and load-balancing concepts
+- Message queues and asynchronous jobs
+- Backpressure and resource management
+- Horizontal scaling and distributed systems fundamentals
+- Security, maintainability, and performance trade-offs
+
+</details>---
+
+🚀 Flagship Project — WhyLong
+
+<div align="center">🔗 WhyLong
+
+More than shortening a URL — exploring the engineering behind the service.
+
+A URL shortening platform with QR generation, link management, analytics, and backend-focused infrastructure.
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github" />
-</p>
+  <a href="https://whylong.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-0f172a?style=for-the-badge" alt="Visit WhyLong" /></a>
+  <a href="https://github.com/devKartikeya/WhyLong"><img src="https://img.shields.io/badge/📦_SOURCE_CODE-2563eb?style=for-the-badge" alt="WhyLong source code" /></a>
+</p></div>✨ Product Features
 
-### 🔒 System Design
+- 🔗 Create and manage shortened URLs.
+- 📱 Generate customizable QR codes with brand identity.
+- 📊 Track link clicks and explore analytics.
+- 👤 Support authenticated users and personalized dashboards.
+- 🔐 Implement authentication and protected resources.
+- 🎨 Deliver a responsive React and TailwindCSS interface.
 
-<p>
-<img src="https://skillicons.dev/icons?i=rabbitmq,redis,kafka,cloudflare,nginx" />
-</p>
+⚙️ Engineering Capabilities
 
-</div>
+Area| Focus
+API layer| Node.js, Express, REST APIs
+Data layer| MongoDB and Mongoose
+Authentication| JWT and cookie-based flows
+Performance| Caching and reduced repeated reads
+Security| Rate limiting and request protection
+Async processing| RabbitMQ-based background jobs
+Reliability| Backpressure and resource management
+Infrastructure| Docker and CI/CD workflows
+Scalability| Load balancing and horizontal scaling
 
----
+🏗️ What I'm Exploring Through WhyLong
 
-# 🧠 Technical Skills
+- Separating request handling from background work.
+- Understanding how caching changes read performance.
+- Protecting APIs from excessive traffic.
+- Managing work queues and asynchronous tasks.
+- Understanding how multiple application instances can serve traffic.
+- Improving deployment consistency through containers and automation.
 
-### Frontend Engineering
+Stack: React · TailwindCSS · Node.js · Express · MongoDB · Redis · RabbitMQ · Docker · GitHub Actions
 
-* React.js
-* HTML5 & CSS3
-* JavaScript / ES6+
-* TypeScript
-* TailwindCSS
-* Responsive Design
-* GSAP & ScrollTrigger
-
-### Backend Engineering
-
-* Node.js & Express.js
-* PHP & Laravel
-* REST API Design
-* MVC Architecture
-* Authentication & Authorization
-* JWT & Cookies-Session-based authentication
-* WebSockets and Server-side events
-* API validation & error handling
-
-### Databases
-
-* MySQL
-* MongoDB
-* Schema design
-* Normalization
-* Relationships
-* CRUD operations
-* Database integrity
-* Connection pooling concepts
-* Query optimization fundamentals
-
-### DevOps
-
-* Docker
-* Networking
-* Docker Compose
-* GitHub Actions
-* CI/CD Pipelines
-* Environment configuration
-* Linux fundamentals
-* Deployment workflows
-
-### Engineering Concepts
-
-* System Design
-* OOPS & SOLID Principles
-* Client–Server Architecture
-* REST Architecture
-* Caching & Redis
-* Rate limiting & security
-* Load balancing 
-* Message Brokers
-* Backpressure
-* Scalability
-* Containerization
-* Git workflows
+Repository: "devKartikeya/WhyLong" (https://github.com/devKartikeya/WhyLong) · Live: "whylong.vercel.app" (https://whylong.vercel.app)
 
 ---
 
-# 🧩 Engineering Interests
+🧰 Other Projects
 
-I'm especially interested in:
+💰 Xpense Tracker
 
-* 🐳 DevOps
-* 🏗️ System Design
-* ☁️ Cloud Computing
-* 📦 Containerization
-* 🌐 Distributed Systems
-* 🗄️ Database Engineering
-* 🔐 Application Security
-* ⚡ Performance Engineering
-* 🤖 Automation
-* 🌍 Open Source
+A full-stack financial management application for tracking income, expenses, and financial activity with analytics and administrative controls.
 
----
+Key features
 
-# 💡 Engineering Mindset
+- JWT authentication, protected routes, and bcrypt password hashing.
+- Expense and income tracking with charts and a ledger.
+- Dynamic categories and administrative functionality.
+- Password-reset workflow and PDF/Excel exports.
+- Responsive interface and deployed frontend.
 
-I like understanding **why** a technology or architectural decision exists instead of only learning how to use it.
+Stack: MongoDB · Express · React · Node.js
 
-For example:
+"🌐 Live Application" (https://expense-tracker-mern-project-seven.vercel.app) · "📦 Repository" (https://github.com/devKartikeya/expense-tracker-mern-project)
 
-* Why use SQL instead of NoSQL?
-* Why containerize an application?
-* How does Docker networking actually work?
-* How does a reverse proxy fit into an architecture?
-* Why does connection pooling matter?
-* How should authentication work securely?
-* How can an application scale beyond a single server?
-* What happens between `git push` and production?
+⚙️ Node.js GitHub Actions CI/CD Pipeline
 
-These questions are what continue to drive my learning.
+A hands-on project for learning automated workflows, Docker integration, and repeatable build processes.
 
----
+- GitHub Actions workflow automation.
+- Docker build integration.
+- Environment and secrets configuration.
+- Git-based development and deployment workflow.
 
-# 🌟 Featured Projects
+Stack: Node.js · Docker · GitHub Actions
 
-## 🔗 WhyLong — Robust URL Shortener
+"📦 View Repository" (https://github.com/devKartikeya/Nodejs-GitHub-Actions-CI-CD-Pipeline)
 
-> **React • Node.js • Express • MongoDB • Redis • Docker • CI/CD • Load-Balancing • Rate-Limiting • RabbitMQ**
+🌍 Heritage Junction
 
-A full-stack URL shortening platform built while exploring **backend engineering, containerization, DevOps workflows and best system design principles**.
+A Laravel and React-based travel platform focused on destinations, packages, itineraries, and booking workflows.
 
-WhyLong allows users to create and manage shortened URLs while providing a dashboard-oriented experience for authenticated users and generate customizable QR-Codes.
+- Laravel backend with an Inertia-powered React frontend.
+- MySQL database integration.
+- Destination and package management.
+- Itinerary and booking workflows.
 
-### Highlights
+Stack: Laravel · PHP · React · Inertia · MySQL
 
-* 🔗 URL shortening
-* 🔗 QR-Code Generation
-* 🔗 Brand Identity into QRs
-* 📈 Click tracking
-* 👤 User authentication
-* 🍪 JWT-based authentication
-* 📊 User-specific link dashboard
-* 🗄️ MongoDB + Mongoose
-* ⚙️ REST APIs
-* 🐳 Dockerized backend environment
-* 🔄 CI/CD development direction
-* 📈 Caching service for optimizing read operations
-* 📈 Rate-limiter applied for security
-* 📈 RabbitMQ for heavy asynchronous jobs like sending mails.
-* 📈 Backpressure for stability
-* 📈 Horizontally scaled along with a load balancer
-* 🎨 React + TailwindCSS interface
+"📦 View Repository" (https://github.com/devKartikeya/Heritage-Junction)
 
-**Live:**
-https://whylong.vercel.app
+🎨 Developer Portfolio
 
-**Repository:**
-https://github.com/devKartikeya/WhyLong
+A modern portfolio website showcasing projects, skills, certifications, and my development journey.
+
+- Responsive design and component-based architecture.
+- GSAP animations and ScrollTrigger.
+- Glassmorphism-inspired interface.
+- EmailJS contact integration.
+
+Stack: React · TailwindCSS · GSAP · Vite
+
+"🌐 Live Portfolio" (https://kartikeyamishra.vercel.app) · "📦 View Repository" (https://github.com/devKartikeya/Kartikeya-Mishra)
 
 ---
 
-## 💰 Xpense Tracker
+🏗️ How I Think About Engineering
 
-> **MERN • React • Node.js • Express • MongoDB**
+I prefer understanding the problem before choosing the technology.
 
-A full-stack financial management application designed to track income and expenses while providing analytics and administrative functionality.
+Engineering question| What I want to understand
+SQL or NoSQL?| Data relationships, consistency, query patterns, and trade-offs
+Why Docker?| Reproducible environments and deployment consistency
+Why Redis?| When caching helps and how invalidation affects correctness
+Why a message queue?| Decoupling workloads and handling asynchronous processing
+Why rate limiting?| Protecting resources and controlling abusive traffic
+Why a load balancer?| Distributing requests across application instances
+Why CI/CD?| Reducing manual work and making delivery repeatable
+Why monitoring?| Detecting failures and understanding system behavior
 
-### Highlights
-
-* 🔐 JWT authentication
-* 🔒 Protected routes
-* 🔑 Password hashing with bcrypt
-* 📊 Expense & income analytics
-* 📈 Pie, bar & line charts
-* 🧾 Ledger
-* 🗂️ Dynamic categories
-* 👨‍💼 Admin panel
-* 📧 Password reset
-* 📄 PDF & Excel export
-* 📱 Responsive UI
-* ☁️ Cloud deployment
-
-**Live:**
-https://expense-tracker-mern-project-seven.vercel.app
-
-**Repository:**
-https://github.com/devKartikeya/expense-tracker-mern-project
+The interesting part isn't just learning a tool — it's knowing when to use it, what it costs, and which problem it solves.
 
 ---
 
-## ⚙️ Node.js GitHub Actions CI/CD Pipeline
+📈 My Development Journey
 
-> **Node.js • Docker • GitHub Actions**
+<div align="center">"Programming Fundamentals" → "Full Stack Development" → "Backend Engineering" → "Docker & CI/CD" → "System Design" → "Cloud & Infrastructure"
 
-A practical DevOps project focused on understanding how source code moves through an automated CI/CD workflow.
-
-### Highlights
-
-* 🔄 GitHub Actions
-* 🧪 Automated workflow execution
-* 🐳 Docker integration
-* 📦 Build automation
-* 🚀 Deployment workflow
-* 🔐 Environment & secrets management
-* 🌱 Git-based development workflow
-
-**Repository:**
-https://github.com/devKartikeya/Nodejs-GitHub-Actions-CI-CD-Pipeline
+</div>Stage| Focus
+01 · Foundations| Java, C, programming fundamentals, Git
+02 · Web Development| HTML, CSS, JavaScript, React
+03 · Backend Development| Node.js, Express, PHP, Laravel
+04 · Data & APIs| MongoDB, MySQL, authentication, REST APIs
+05 · Real Applications| Full-stack projects and real-time communication
+06 · DevOps Foundations| Docker, Linux, GitHub Actions, CI/CD
+07 · Engineering Depth| System design, performance, reliability, and scalability
+08 · Next Frontier| Cloud infrastructure, advanced distributed systems, and observability
 
 ---
 
-## 🌍 Heritage Junction
+🎯 Current Focus & Roadmap
 
-> **Laravel • React • Inertia • MySQL**
+I'm focused on strengthening what I've already built while expanding into infrastructure and deeper systems engineering.
 
-A tourism and travel platform focused on destinations, packages, itineraries, and booking workflows.
+- [x] Build and deploy full-stack applications.
+- [x] Work with SQL and NoSQL databases.
+- [x] Implement authentication and protected APIs.
+- [x] Build Docker and GitHub Actions practice projects.
+- [ ] Deepen Docker Compose and production container workflows.
+- [ ] Develop stronger system design and scalability skills.
+- [ ] Learn cloud infrastructure with AWS.
+- [ ] Explore Kubernetes and Terraform.
+- [ ] Deepen Redis, messaging, and distributed systems knowledge.
+- [ ] Improve monitoring, logging, and observability practices.
+- [ ] Contribute to open-source projects.
 
-### Highlights
-
-* Laravel backend
-* React frontend
-* Inertia
-* MySQL
-* Destination management
-* Travel packages
-* Itinerary management
-* Booking workflow
-* Database-driven architecture
-
-**Repository:**
-https://github.com/devKartikeya/Heritage-Junction
+The roadmap reflects ongoing goals; unchecked items are areas I intend to develop further.
 
 ---
 
-## 🎨 Developer Portfolio
+📊 GitHub Analytics
 
-> **React • TailwindCSS • GSAP**
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=devKartikeya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKartikeya&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /><img width="75%" src="https://streak-stats.demolab.com?user=devKartikeya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devKartikeya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" /></div>---
 
-A modern animated portfolio designed to showcase my work, skills, projects, certifications and development journey.
+🧭 Principles I Try to Follow
 
-### Highlights
+<div align="center">Principle| Practice
+Understand first| Learn the problem before adopting a solution
+Build to learn| Turn concepts into working projects
+Fundamentals over hype| Understand the trade-offs behind tools
+Automate wisely| Reduce repetitive, error-prone work
+Design for change| Keep code readable and maintainable
+Learn from failure| Debug the cause, not just the symptom
+Improve continuously| Refine both implementation and thinking
 
-* ✨ GSAP animations
-* 🎨 Modern UI/UX
-* 🪟 Glassmorphism
-* 📱 Responsive design
-* 🧩 Component-based architecture
-* 📬 EmailJS integration
+</div>---
 
-**Live:**
-https://kartikeyamishra.vercel.app
+🤝 Let's Connect
 
-**Repository:**
-https://github.com/devKartikeya/Kartikeya-Mishra.git
+I'm interested in connecting with developers, learning from other engineers, collaborating on useful projects, and contributing to the developer community.
 
----
+<div align="center"><a href="https://github.com/devKartikeya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/kartikeya-mishra-8199973a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kartikeya2122008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-# 📈 My Development Journey
+<br /><br />
 
-```text
-Programming Fundamentals
-          │
-          ▼
-        Java
-          │
-          ▼
-     HTML / CSS
-          │
-          ▼
-     JavaScript
-          │
-          ▼
-       React
-          │
-          ▼
- Node.js + Express
-          │
-          ▼
- MongoDB + MySQL
-          │
-          ▼
- Authentication & APIs
-          │
-          ▼
- WebSockets & Real-Time Apps
-          │
-          ▼
-      MERN Projects
-          │
-          ▼
-       Laravel
-          │
-          ▼
-       Docker & CI/CD
-          │
-          ▼
-    System Design
-          │
-          ▼
-   DevOps & Cloud
-```
+Build → Break → Understand → Improve → Repeat
 
----
+Always building. Always learning. Engineering one step at a time.
 
-# 🎯 Long-Term Vision
-
-My long-term goal is to become a **well-rounded Software Engineer with strong Full Stack, Backend, and DevOps capabilities**.
-
-I want to be able to:
-
-* Design scalable architectures
-* Build reliable backend systems
-* Develop polished user experiences
-* Design efficient databases
-* Containerize applications
-* Automate CI/CD workflows
-* Deploy applications to cloud infrastructure
-* Understand distributed systems
-* Monitor and improve production systems
-* Contribute to open-source projects
-
-The goal isn't to simply know more technologies.
-
-The goal is to **understand how the pieces fit together**.
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devKartikeya&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Principles I Try to Follow
-
-```text
-01  Understand before implementing.
-
-02  Build before assuming.
-
-03  Prefer fundamentals over hype.
-
-04  Automate repetitive work.
-
-05  Keep systems maintainable.
-
-06  Document what I learn.
-
-07  Improve continuously.
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/devKartikeya">
-<img src="https://img.shields.io/badge/GitHub-devKartikeya-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://linkedin.com/in/kartikeya-mishra-8199973a9">
-<img src="https://img.shields.io/badge/LinkedIn-Kartikeya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:kartikeya2122008@gmail.com">
-<img src="https://img.shields.io/badge/Email-kartikeya2122008%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Build → Break → Learn → Improve → Repeat
-
-<br>
-
-### 🚀 Always building. Always learning. Always improving.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:06B6D4&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:2563eb,100:06b6d4&section=footer" alt="Decorative footer" /></div>
