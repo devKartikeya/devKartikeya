@@ -221,8 +221,7 @@ flowchart LR
 
 <img width="75%" src="https://streak-stats.demolab.com?user=devKartikeya&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devKartikeya&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-
+<img width="963" height="314" alt="image" src="https://github.com/user-attachments/assets/92b368b3-8f75-47c8-9b4c-5953bebfd0de" />
 </div>
 
 ---
