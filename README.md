@@ -51,9 +51,7 @@ const kartikeya = {
 | **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs" /> |
 | **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" /> |
 | **🐳 DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,nginx" /> |
-| **🧠 Exploring** | <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,cloudflare,aws,kubernetes,terraform" /> |
-
-<sub>Logos show my tools and learning areas — not necessarily production-level expertise in each.</sub>
+| **🧠 Exploring** | <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,cloudflare,aws,kubernetes" /> |
 
 </div>
 
