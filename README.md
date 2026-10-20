@@ -49,7 +49,7 @@ const kartikeya = {
 |:--|:--|
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=js,ts,java,c,python,php" /> |
 | **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs" /> |
-| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql" /> |
+| **⚙️ Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,prisma" /> |
 | **🐳 DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,github,nginx" /> |
 | **🧠 Exploring** | <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,cloudflare,aws,kubernetes" /> |
 
@@ -204,7 +204,6 @@ flowchart LR
 - [x] System design & scalability fundamentals
 - [ ] Cloud infrastructure with **AWS**
 - [ ] **Kubernetes** & **Terraform**
-- [ ] Deeper Redis, messaging & distributed systems
 - [ ] Monitoring, logging & observability
 - [ ] Contribute to open-source
 
