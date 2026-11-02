@@ -23,6 +23,8 @@
 
 ## 👋 About Me
 
+One man Army - I plan, I build, I deploy, I market, I manage.
+
 I don't just want my apps to *work* — I want to know **how they talk, how data flows, how they fail, and how to make them reliable.**
 
 Started with programming fundamentals → frontend → backend APIs → databases → auth → full-stack apps. Now going deeper into **containers, CI/CD, caching, queues and scalable architecture.**
@@ -85,19 +87,19 @@ const kartikeya = {
 <td width="50%" valign="top">
 
 ### 🐳 DevOps
+- Linux & Server config
 - Dockerfiles, networking, volumes, Compose
-- GitHub Actions CI/CD
-- Linux & environment config
+- CI/CD - GitHub Actions
 - Secrets management & deployment
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏗️ System Design
-- Caching & rate limiting
-- Load balancing & horizontal scaling
-- Async job processing & backpressure
-- Resilience & failure handling
+- Object-Oriented Programming
+- Load balancing & scaling
+- Message Brokers & backpressure
+- Caching & rate-limiting
 
 </td>
 </tr>
@@ -111,7 +113,7 @@ const kartikeya = {
 
 ### 🔗 More than shortening a URL — it's a backend engineering playground.
 
-<a href="https://whylong.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-0f172a?style=for-the-badge" alt="Live" /></a>
+<a href="https://whylong.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_PROJECT-0f172a?style=for-the-badge" alt="Live" /></a>
 <a href="https://github.com/devKartikeya/WhyLong"><img src="https://img.shields.io/badge/📦_SOURCE_CODE-2563eb?style=for-the-badge" alt="Source" /></a>
 
 </div>
@@ -218,8 +220,7 @@ flowchart LR
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKartikeya&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img width="75%" src="https://streak-stats.demolab.com?user=devKartikeya&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img width="963" height="314" alt="image" src="https://github.com/user-attachments/assets/92b368b3-8f75-47c8-9b4c-5953bebfd0de" />
+<img width="963" height="314" alt="image" src="https://github.com/user-attachments/assets/7928c9fc-c0a4-4950-96fd-10e2818d488c" />
 </div>
 
 ---
