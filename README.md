@@ -15,6 +15,8 @@
   <a href="https://linkedin.com/in/kartikeya-mishra-8199973a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kartikeya2122008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4385?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://dev.to/devKartikeya"><img src="https://img.shields.io/badge/Dev-EA4335?style=for-the-badge&logo=dev&logoColor=white" alt="DEV" /></a>
+    <a href="https://medium.com/@devKartikeya"><img src="https://img.shields.io/badge/Medium-2C2D2D?style=for-the-badge&logo=dev&logoColor=white" alt="Medium" /></a>
+    <a href="https://instagram.com/devKartikeya"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=dev&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
@@ -248,6 +250,8 @@ Open to **internships, collaborations and open-source** — if you're building s
 <a href="https://linkedin.com/in/kartikeya-mishra-8199973a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:kartikeya2122008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4375?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://dev.to/devKartikeya"><img src="https://img.shields.io/badge/Dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="DEV" /></a>
+    <a href="https://medium.com/@devKartikeya"><img src="https://img.shields.io/badge/Medium-2C2D2D?style=for-the-badge&logo=dev&logoColor=white" alt="Medium" /></a>
+    <a href="https://instagram.com/devKartikeya"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=dev&logoColor=white" alt="Instagram" /></a>
 
 **Build → Break → Understand → Improve → Repeat** 🔁
 
